@@ -1,16 +1,15 @@
-## Hi there 👋
+   # Hi there 👋 I'm jjkiri
 
-<!--
-**JJkiri/JJkiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   🏦 Working at Korea Public Finance Information Service (한국재정정보원)
+   📊 Aspiring Data Analyst & Risk Management Professional
 
-Here are some ideas to get you started:
+   ## 🎯 Certifications
+   - KICPA
+   - 
+   ## 🛠️ Currently Learning
+   - 🐍 Python
+   - 📊 SQL
+   - 📈 Financial Risk Management (FRM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ## 📫 Contact
+   - Email: wkl9792@gmail.com
