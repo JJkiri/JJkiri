@@ -9,7 +9,7 @@
    ## 🛠️ Currently Learning
    - 🐍 Python
    - 📊 SQL
-   - 📈 Financial Risk Management (FRM)
+   - 📈 Automation
 
    ## 📫 Contact
    - Email: wkl9792@gmail.com
